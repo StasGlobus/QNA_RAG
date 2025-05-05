@@ -1,6 +1,3 @@
-# Core dependencies for the RAG pipeline
-# It's recommended to pin versions based on your working environment (e.g., using 'pip freeze')
-
 openai
 chromadb
 sentence-transformers
